@@ -14,6 +14,15 @@
 
 [Live Demo Link](https://repl.it/@udberg/Ruby-enumerables)
 
+## Setup
+
+Setup linters by running the following program to install dependencies
+
+- npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-standard@20.0.x stylelint-csstree-validator
+
+Run the following command to check linters
+
+- npx stylelint "*/.{css,scss}"
 
 ## Getting Started
 
