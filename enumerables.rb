@@ -70,7 +70,7 @@ module Enumerable
         return true if item.is_a?(condition)
       elsif condition.class == Regexp
         return true if item.match(condition)
-      elsie !block_given? && condition.nil?
+      elsif !block_given? && condition.nil?
         return true if item
       elsif !condition.nil?
         return true if item == condition
