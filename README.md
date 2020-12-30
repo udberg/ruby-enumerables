@@ -1,16 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Advanced Building Blocks - Enumerable Methods
 
-> One paragraph statement about the project.
+> This project is built using Ruby recreating methods that work the same as the Ruby enumerable methods including Each, Each_with_index, Select, all?, none, any?, count, map and inject.
 
-
-
-Additional description about the project and its features.
 
 ## Built With
 
 - RUBY
+- VS CODE
 
 ## Live Demo
 
@@ -19,26 +17,23 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Before getting started make sure that ruby is installed.
 
-### Setup
+- Start by cloning this repository to your local machine
 
-### Install
+- git clone https://github.com/udberg/ruby-enumerables.git
 
-### Usage
+- cd ruby_enumerables
 
-### Run tests
+- run ruby main.rb
 
-### Deployment
+- Have fun!
 
+## Author
 
-
-## Authors
-
-👤 **Author1**
+👤 **udberg**
 
 - GitHub: [@udberg](https://github.com/udberg)
 - Twitter: [@juduak_](https://twitter.com/juduak_)
@@ -60,4 +55,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
