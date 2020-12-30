@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 - cd ruby_enumerables
 
-- run ruby main.rb
+- run ruby enumerables.rb
 
 - Have fun!
 
