@@ -1,65 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Advanced Building Blocks - Enumerable Methods
 
-> One paragraph statement about the project.
+> This project is built using Ruby recreating methods that work the same as the Ruby enumerable methods including Each, Each_with_index, Select, all?, none, any?, count, map and inject.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- RUBY
+- VS CODE
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://repl.it/@udberg/Ruby-enumerables)
 
+## Setup
+
+Setup linters by running the following program to install dependencies
+
+- npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-standard@20.0.x stylelint-csstree-validator
+
+Run the following command to check linters
+
+- npx stylelint "*/.{css,scss}"
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Before getting started make sure that ruby is installed.
 
-### Setup
+- Start by cloning this repository to your local machine
 
-### Install
+- git clone https://github.com/udberg/ruby-enumerables.git
 
-### Usage
+- cd ruby_enumerables
 
-### Run tests
+- run ruby enumerables.rb
 
-### Deployment
+- Have fun!
 
+## Author
 
+👤 **udberg**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- LinkedIn: [Uduak John](https://www.linkedin.com/in/uduak-john-090059105/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/udberg/ruby-enumerables/issues).
 
 ## Show your support
 
@@ -67,10 +60,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to [Microverse](https://github.com/microverseinc) for their readme template
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
